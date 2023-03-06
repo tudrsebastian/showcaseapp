@@ -14,10 +14,12 @@
 yarn install
 ```
 
-## Run tests
+## Run the app
+
+### In the root of the project just run the following command and both client and server will run
 
 ```sh
-yarn run test
+yarn dev
 ```
 
 ## Author
