@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Its a fullstack app created with NestJS and NextJS, using yarn as a packages manager. You can post upate delete projects that you want to s
+> Its a fullstack app created with NestJS and NextJS, using yarn as a packages manager. You can post upate delete projects that you want to show
 
 ## Install
 
